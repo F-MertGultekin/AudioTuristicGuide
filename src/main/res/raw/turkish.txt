@@ -1,0 +1,20 @@
+Pergamon Antik Kenti-39.132902,27.183319-tr01
+Bozdağ Kayak Merkezi-38.332961,28.110334-tr02
+Alaçatı-38.290133,26.377470-tr03
+Erythrai Arkeolojik Ören Yeri-38.381336,26.477968-tr04
+Çeşme Kalesi-38.323988,26.303179-tr05
+Ilıca Plajı-38.308543,26.374145-tr06
+Tarihi Kemeraltı Çarşısı-38.418408,27.132241-tr07
+Kızlarağası Hanı-38.421260,27.133142-tr08
+İzmir Saat Kulesi-38.418899,27.128667-tr09
+Smyrna Antik Kenti-38.418775,27.138926-tr10
+Asansör-38.408707,27.117755-tr11
+Kıbrıs Şehitleri Caddesi-38.438696,27.143595-tr12
+Kordon Alsancak-38.438663,27.141343-tr13
+Yedi Uyurlar Mağarası-37.943989,27.353629-tr14
+Meryem Ana Evi-37.912588,27.332757-tr15
+Selçuk Kalesi-37.951139,27.369590-tr16
+Şirince Köyü-37.944144,27.431612-tr17
+Gölcük Yaylası-38.320984,28.023804-tr18
+Birgi-38.258440,28.074176-tr19
+Efes Antik Kenti-37.941087,27.341458-tr20
