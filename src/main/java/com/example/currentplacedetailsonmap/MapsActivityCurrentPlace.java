@@ -633,7 +633,7 @@ public class MapsActivityCurrentPlace extends AppCompatActivity
         List<LatLng> path = new ArrayList();
         //Execute Directions API request
         GeoApiContext context = new GeoApiContext.Builder()
-                .apiKey("AIzaSyC2ATjYzU3qdG0dy-XRRmGO0kuwe5lBodo")
+                .apiKey("!!!!!!!!!!!!!!!!!!!!!!!For the security concern api key is deleted !!!!!!!!!!!!!!!!!!!!!!!")
                 .build();
         DirectionsApiRequest req = DirectionsApi.getDirections(context, String.valueOf(mLocation.latitude)+", "+String.valueOf(mLocation.longitude), String.valueOf(routedMarker[0].latitude)+", "+String.valueOf(routedMarker[0].longitude));
         try {
