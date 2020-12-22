@@ -16,7 +16,7 @@ android {
         if (file("../../../../secure.properties").exists()) {
             file("../../../../secure.properties")?.withInputStream { secureProps.load(it) }
         }
-        resValue "string", "maps_api_key", (secureProps.getProperty("MAPS_API_KEY") ?: "AIzaSyAi2XLe-B7jYDCcP30JiWAxTVa9kxraDPE")
+        resValue "string", "maps_api_key", (secureProps.getProperty("MAPS_API_KEY") ?: "!!!!!!!!!!!!!!!!! API KEY WAS DELETED DUE TO SECURITY CONCERN!!!!!!!!!!!!!")
 
 
     }
